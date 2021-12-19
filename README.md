@@ -1,2 +1,1 @@
-# Alpha_Cyprus
-Example Regex Codes
+# Alpha Cyprus Example Regex Codes
